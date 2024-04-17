@@ -1,19 +1,3 @@
---Anti Stuff
-	Both = {
-		DetectDesync    = false,
-		DesyncDetection = 80,
-		
-		UseUnderGroundKeybind = false,
-		UnderGroundKey        = "X",
-		
-        UnderGroundReolver    = false,
-		
-		UsDetectDesyncKeybind = false,
-		DetectDesyncKey       = "V",
-		
-		SendNotification      = false,
-	},
-}
 
 local Prey = nil
 local Plr  = nil
