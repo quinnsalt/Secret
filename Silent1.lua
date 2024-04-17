@@ -17,7 +17,7 @@ getgenv().Cult = {
 		Keybind    = "v",
 	},
     SilentFOV = {
-        Visible = true,
+        Visible = false,
         Radius  = 60,
     },
     Aimlock = {
